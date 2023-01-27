@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidmujahid&label=Profile%20views&color=0e75b6&style=flat" alt="zaidmujahid" /> </p>
 
-- 🔭 I’m currently working on [GDSC-MHSSCE](https://github.com/GDSC-MHSSCE/GDSC-MHSSCE)
+- 🔭 I’m currently working on [GDSC-MHSSCE](https://gdsc-mhssce.github.io/GDSC-MHSSCE/)
 
 - 🌱 I’m currently learning **Machine Learning**
 

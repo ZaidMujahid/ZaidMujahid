@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaid Mujahid</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidmujahid&label=Profile%20views&color=0e75b6&style=flat" alt="zaidmujahid" /> </p>
+
 
 - 🔭 I’m currently working on [GDSC-MHSSCE](https://gdsc-mhssce.github.io/GDSC-MHSSCE/)
 

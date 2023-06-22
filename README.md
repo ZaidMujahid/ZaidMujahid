@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GDSC-MHSSCE](https://gdsc-mhssce.github.io/GDSC-MHSSCE/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **zaidmujahid274@gmail.com**
 
